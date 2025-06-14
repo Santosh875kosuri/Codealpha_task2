@@ -1,4 +1,4 @@
-function appendToDisplay(value) {Add commentMore actions
+function appendToDisplay(value) {
   document.getElementById('display').value += value;
 }
 
